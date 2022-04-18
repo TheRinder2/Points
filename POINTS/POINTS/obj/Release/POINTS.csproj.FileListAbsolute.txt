@@ -1,0 +1,15 @@
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\bin\Release\POINTS.exe.config
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\bin\Release\POINTS.exe
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\bin\Release\POINTS.pdb
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\MainWindow.g.cs
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\App.g.cs
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS_MarkupCompile.cache
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS_MarkupCompile.lref
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\MainWindow.baml
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.g.resources
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.Properties.Resources.resources
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.exe
+C:\Users\Дима\Desktop\VS\WPF\POINTS\POINTS\obj\Release\POINTS.pdb
